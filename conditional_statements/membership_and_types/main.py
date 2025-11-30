@@ -9,4 +9,4 @@ print("contains 'Imported':", contains_Imported)
 price_is_float = type(price) == float
 print("Is price a float?:", str (price_is_float).lower())
 count_is_int = type(count) == int
-print("Is count an integer?:", str(count_is_int).lower()
+print("Is count an integer?:", str(count_is_int).lower())
